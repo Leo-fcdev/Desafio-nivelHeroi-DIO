@@ -29,7 +29,7 @@ let nomeHeroi = "Leonardo";
 let xp = 7500
 let patente = ""
 
-switch (xp){
+switch (true){
     case xp < 1000:
         patente = "Ferro"
         break;
