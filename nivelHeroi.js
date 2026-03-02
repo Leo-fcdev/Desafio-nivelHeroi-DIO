@@ -63,4 +63,4 @@ switch (true){
         break;
 }
 
-console.log(`O Héroi de nome ${nomeHeroi} está no nível ${patente}`)
+console.log(`O Herói de nome ${nomeHeroi} está no nível ${patente}`)
